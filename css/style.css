@@ -88,6 +88,13 @@ h5{
 hr{
     margin-top: 1.25rem;
 }
+/* added gif */
+body {
+    background-image: url(https://wallpaperaccess.com/full/5927911.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 form{
     padding: 2vh 0;
 }
